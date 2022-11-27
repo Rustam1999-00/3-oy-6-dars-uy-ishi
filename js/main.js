@@ -25,7 +25,7 @@ var elhedding = document.querySelector(".hedding");
 var elspan = document.querySelector(".span");
 
 if ( useSumma>userNatija ){
-    elhedding.textContent=('Oq yol');
+    elhedding.textContent=('Oq yol. Sayohatingiz yaxshi o\'tsin');
 
 } else{
     elhedding.textContent=('Biroz sabir qilasiz. Pul miqdoringiz kam');
